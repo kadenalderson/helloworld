@@ -1,3 +1,3 @@
 # helloworld
-just another repository 
-kaden here, Im new to coding, Im currently learnig python. 
+Just another repository.
+Kaden here, Im new to coding, Im currently learnig python. 
